@@ -1,0 +1,32 @@
+
+h1 {
+    text-align: center;
+    text-decoration: wavy;
+    font-family: 'Times New Roman', Times, serif;
+}
+h2 {
+    text-align: center;
+    text-decoration: wavy;
+    font-family: 'Times New Roman', Times, serif;
+}
+h3 {
+    text-align: center;
+    text-decoration: wavy;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+p {
+    text-align: center;
+    text-decoration: wavy;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+  }
+  body {
+    background-color: rgb(128, 128, 128, 0.25)
+}

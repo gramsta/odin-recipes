@@ -1,0 +1,19 @@
+h1 {
+    text-align: center;
+    text-decoration: wavy;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.classone {
+    font-size: 100px;
+}
+
+.what {
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+body {
+    background-color: rgb(128, 128, 128, 0.25)
+}
